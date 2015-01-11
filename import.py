@@ -75,7 +75,7 @@ session = Session()
 Base.metadata.create_all(engine) 
 
 
-atoc_file = '/srv/railtim.es/new/TTISF029.MCA'
+atoc_file = '/Users/kirk/Code/railtimes-parser/ttisf681.mca'
 
 ######################
 ## ATOC Data Import ##
